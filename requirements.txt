@@ -2,3 +2,4 @@ openai
 flask
 twilio
 dotenv
+protobuf
